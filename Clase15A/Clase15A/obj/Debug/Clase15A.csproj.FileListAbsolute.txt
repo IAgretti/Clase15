@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase15A\Clase15A\bin\Debug\Clase15A.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase15A\Clase15A\bin\Debug\Clase15A.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase15A\Clase15A\bin\Debug\Clase15A.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase15A\Clase15A\obj\Debug\Clase15A.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase15A\Clase15A\obj\Debug\Clase15A.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Clase15A\Clase15A\obj\Debug\Clase15A.pdb
